@@ -1,0 +1,1589 @@
+[
+  {
+    "id": "proj_helium",
+    "name": "Helium Flowzen X1",
+    "entity": "Helium Flowzen Technologies",
+    "category": "Semiconductor Technology",
+    "status": "Active",
+    "date": "2026-01-15",
+    "logo": "/assets/projects/helium_flowzen_logo.jpg",
+    "heroImage": "/assets/brand/banner_chip.jpg",
+    "gallery": [
+      "/assets/brand/banner_chip.jpg",
+      "/assets/projects/helium_flowzen_logo.jpg",
+      "/assets/brand/banner_ecosystem.jpg"
+    ],
+    "shortDescription": "Sub-Nanometer Quantum Silicon Architecture",
+    "fullDescription": "Helium Flowzen X1 is BEDHA's flagship semiconductor venture, pioneering revolutionary sub-nanometer photonic neural processors. It powers real-time localized machine learning models with 80% reduced thermal dissipation and unrivaled tensor acceleration across the entire ecosystem.",
+    "executiveOverview": "Helium Flowzen X1 represents a quantum leap in solid-state computing, combining sub-nanometer lithography with photonic interconnects to deliver 380 billion computing nodes on a single thermal-optimized die.",
+    "breakthroughs": [
+      "Sub-nanometer Photonic Silicon Die with Zero-Resistance Traces",
+      "Quantum-assisted Tensor Processing Unit (Q-TPU)",
+      "Ultra-low Power Neuromorphic Architecture (0.4pJ/MAC)",
+      "Integrated High-Bandwidth Unified Memory (HBM4) at 3.2 TB/s"
+    ],
+    "capabilities": [
+      "Trillion-parameter neural network edge inferencing without cloud offload",
+      "Instantaneous cryptographic matrix operations for post-quantum networks",
+      "Direct optic-fiber interconnect bus interface for cluster scale-out"
+    ],
+    "specifications": [
+      {
+        "key": "Transistor Density",
+        "value": "380 Billion Nodes"
+      },
+      {
+        "key": "Architecture",
+        "value": "BEDHA Flowzen Gen 1 RISC-Q"
+      },
+      {
+        "key": "Process Node",
+        "value": "Sub-nanometer Photonic Silicon"
+      },
+      {
+        "key": "Thermal Design Power",
+        "value": "45W Peak Under Max Load"
+      },
+      {
+        "key": "Primary Deployment",
+        "value": "BEDHA AI, Mobile A1, HIMADRI Edge"
+      }
+    ],
+    "technologies": [
+      "Quantum Silicon",
+      "Photonic Bus",
+      "RISC-Q",
+      "HBM4 Memory",
+      "Sub-Nanometer"
+    ],
+    "milestones": [
+      {
+        "title": "Wafer Tape-out",
+        "date": "Dec 2025",
+        "status": "Completed",
+        "description": "First batch sub-nanometer test dies successfully passed cryogenic stress tests."
+      },
+      {
+        "title": "Pilot Integration",
+        "date": "Feb 2026",
+        "status": "Active",
+        "description": "Deployed in A1 flagship handsets and BEDHA AI server clusters."
+      },
+      {
+        "title": "Mass Fabrication",
+        "date": "Q3 2026",
+        "status": "Upcoming",
+        "description": "Commercial ramp-up for enterprise server grids and consumer devices."
+      }
+    ],
+    "futureVision": "Enabling autonomous ambient computing where artificial intelligence executes locally with zero power penalty and instantaneous human latency.",
+    "metrics": [
+      {
+        "label": "Compute Density",
+        "value": "380B Transistors",
+        "change": "+310%"
+      },
+      {
+        "label": "Power Draw",
+        "value": "45W Peak",
+        "change": "-80%"
+      },
+      {
+        "label": "Inference Latency",
+        "value": "0.18 ms",
+        "change": "-92%"
+      }
+    ],
+    "tags": [
+      "Semiconductor",
+      "Quantum Silicon",
+      "Flagship Hardware",
+      "RISC-Q"
+    ],
+    "coverImage": "/assets/brand/banner_chip.jpg",
+    "description": "Sub-Nanometer Quantum Silicon Architecture",
+    "detailedDescription": "Helium Flowzen X1 is BEDHA's flagship semiconductor venture, pioneering revolutionary sub-nanometer photonic neural processors. It powers real-time localized machine learning models with 80% reduced thermal dissipation and unrivaled tensor acceleration across the entire ecosystem.",
+    "leadCompany": "Helium Flowzen Technologies",
+    "creationDate": "2026-01-15",
+    "features": [
+      "Sub-nanometer Photonic Silicon Die with Zero-Resistance Traces",
+      "Quantum-assisted Tensor Processing Unit (Q-TPU)",
+      "Ultra-low Power Neuromorphic Architecture (0.4pJ/MAC)",
+      "Integrated High-Bandwidth Unified Memory (HBM4) at 3.2 TB/s"
+    ],
+    "specs": {
+      "Transistor Density": "380 Billion Nodes",
+      "Architecture": "BEDHA Flowzen Gen 1 RISC-Q",
+      "Process Node": "Sub-nanometer Photonic Silicon",
+      "Thermal Design Power": "45W Peak Under Max Load",
+      "Primary Deployment": "BEDHA AI, Mobile A1, HIMADRI Edge"
+    },
+    "websiteUrl": "https://bedha.internal/helium-flowzen",
+    "isFeatured": true,
+    "updatedAt": "2026-09-15T14:54:09.391Z"
+  },
+  {
+    "id": "proj_a1",
+    "name": "A1",
+    "entity": "A1 Mobile Corporation",
+    "category": "Mobile Technology",
+    "status": "Active",
+    "date": "2026-02-01",
+    "logo": "/assets/projects/a1_brand_variants.jpg",
+    "heroImage": "/assets/projects/a1_g7_phone.jpg",
+    "gallery": [
+      "/assets/projects/a1_g7_phone.jpg",
+      "/assets/projects/a1_brand_variants.jpg",
+      "/assets/brand/banner_ecosystem.jpg"
+    ],
+    "shortDescription": "Next-Generation Titanium Smartphone",
+    "fullDescription": "A1 is a revolutionary next-generation mobile hardware enterprise. Crafting handsets with liquid-metal titanium unibodies, borderless OLED arrays, and native Helium Flowzen X1 silicon integration, A1 redefines personal computing for modern visionaries.",
+    "executiveOverview": "The A1 Smartphone merges aerospace-grade titanium, custom photonic silicon, and tactile BEDHA OS to produce a handheld supercomputer with infinite multi-day battery endurance and seamless spatial computing bridge.",
+    "breakthroughs": [
+      "Bespoke Titanium & Ceramic Chassis with zero flex",
+      "Native Helium Flowzen Edge Co-processor with 50MP AI Vision Module",
+      "True Spatial Holographic Display Capability with 240Hz refresh",
+      "Zero-Latency Satellite Neural Link and local LLM execution"
+    ],
+    "capabilities": [
+      "On-device sovereign artificial intelligence with private memory isolation",
+      "6500mAh solid-state cell supporting 180W flash charging in 12 minutes",
+      "Dynamic ecosystem handoff to BEDHA Vision and HIMADRI smart city terminal"
+    ],
+    "specifications": [
+      {
+        "key": "Display",
+        "value": "6.8\" Quad-MicroLED 240Hz HDR3000"
+      },
+      {
+        "key": "Processor",
+        "value": "Helium Flowzen X1 Mobile Die"
+      },
+      {
+        "key": "Battery",
+        "value": "Solid-State 6500mAh 180W Flash Charge"
+      },
+      {
+        "key": "Camera Matrix",
+        "value": "50MP AI Dual-Prism Optical Sensor"
+      },
+      {
+        "key": "Operating System",
+        "value": "BEDHA OS v1.0"
+      }
+    ],
+    "technologies": [
+      "Solid-State Battery",
+      "Titanium Unibody",
+      "BEDHA OS",
+      "50MP AI Camera",
+      "Satellite Link"
+    ],
+    "milestones": [
+      {
+        "title": "Industrial Design Finalization",
+        "date": "Jan 2026",
+        "status": "Completed",
+        "description": "Chassis ergonomics and camera sensor geometry verified."
+      },
+      {
+        "title": "Carrier & Satellite Certification",
+        "date": "Feb 2026",
+        "status": "Completed",
+        "description": "Global band and satellite fallback network approved."
+      },
+      {
+        "title": "Global Launch Edition",
+        "date": "May 2026",
+        "status": "Active",
+        "description": "Commenced rollout across global flagship hubs."
+      }
+    ],
+    "futureVision": "Transforming the smartphone into a sentient companion that anticipates human intent, protects privacy unconditionally, and connects to every node in the ecosystem.",
+    "metrics": [
+      {
+        "label": "Display Refresh",
+        "value": "240 Hz",
+        "change": "+100%"
+      },
+      {
+        "label": "Charge Speed",
+        "value": "180W / 12m",
+        "change": "+350%"
+      },
+      {
+        "label": "AI TOPS",
+        "value": "140 TOPS",
+        "change": "+240%"
+      }
+    ],
+    "tags": [
+      "Mobile Hardware",
+      "Flagship Smartphone",
+      "BEDHA OS",
+      "5G Satellite"
+    ],
+    "coverImage": "/assets/projects/a1_g7_phone.jpg",
+    "description": "Next-Generation Titanium Smartphone",
+    "detailedDescription": "A1 is a revolutionary next-generation mobile hardware enterprise. Crafting handsets with liquid-metal titanium unibodies, borderless OLED arrays, and native Helium Flowzen X1 silicon integration, A1 redefines personal computing for modern visionaries.",
+    "leadCompany": "A1 Mobile Corporation",
+    "creationDate": "2026-02-01",
+    "features": [
+      "Bespoke Titanium & Ceramic Chassis with zero flex",
+      "Native Helium Flowzen Edge Co-processor with 50MP AI Vision Module",
+      "True Spatial Holographic Display Capability with 240Hz refresh",
+      "Zero-Latency Satellite Neural Link and local LLM execution"
+    ],
+    "specs": {
+      "Display": "6.8\" Quad-MicroLED 240Hz HDR3000",
+      "Processor": "Helium Flowzen X1 Mobile Die",
+      "Battery": "Solid-State 6500mAh 180W Flash Charge",
+      "Camera Matrix": "50MP AI Dual-Prism Optical Sensor",
+      "Operating System": "BEDHA OS v1.0"
+    },
+    "websiteUrl": "https://bedha.internal/a1-mobile",
+    "isFeatured": true
+  },
+  {
+    "id": "proj_myplay",
+    "name": "My Play",
+    "entity": "My Play Digital Services",
+    "category": "Mobile Technology",
+    "status": "Active",
+    "date": "2026-02-15",
+    "logo": "/assets/projects/my_play_store.jpg",
+    "heroImage": "/assets/projects/my_play_store.jpg",
+    "gallery": [
+      "/assets/projects/my_play_store.jpg",
+      "/assets/projects/a1_g7_phone.jpg",
+      "/assets/brand/banner_ecosystem.jpg"
+    ],
+    "shortDescription": "Decentralized Ecosystem App Store",
+    "fullDescription": "My Play is the ecosystem application hub and digital marketplace connecting developers with millions of users across A1 mobile, BEDHA Vision, and Smart Home devices. Features instant streaming apps, zero-bloat sandbox execution, and transparent developer royalties.",
+    "executiveOverview": "My Play dismantles conventional app store monopolies through decentralized peer-to-peer distribution, automated security auditing, and native BEDHA Wallet micro-transactions with zero middleman fees.",
+    "breakthroughs": [
+      "Decentralized Peer-to-Peer App Distribution with instant streaming",
+      "Real-time Security Verification Sandbox preventing malicious telemetry",
+      "Built-in BEDHA Wallet Micro-transactions with zero network gas fees",
+      "Universal Binary Architecture: Single build for Mobile, AR/VR & Smart City"
+    ],
+    "capabilities": [
+      "Zero-install instant execution of enterprise and recreational tools",
+      "Algorithmic curation engine respecting consumer privacy without tracking",
+      "Open developer portal with 95% revenue retention for independent creators"
+    ],
+    "specifications": [
+      {
+        "key": "Distribution Protocol",
+        "value": "Decentralized Encrypted P2P Matrix"
+      },
+      {
+        "key": "Execution Sandbox",
+        "value": "WASM-Zero Secure Isolation"
+      },
+      {
+        "key": "Supported Platforms",
+        "value": "A1 Mobile, BEDHA Vision, BEDHA OS"
+      },
+      {
+        "key": "Payment Pipeline",
+        "value": "Native BEDHA Wallet & Instant UPI"
+      }
+    ],
+    "technologies": [
+      "P2P Network",
+      "WASM Sandbox",
+      "BEDHA Wallet",
+      "Universal Binary",
+      "Zero-Bloat"
+    ],
+    "milestones": [
+      {
+        "title": "Marketplace Architecture",
+        "date": "Jan 2026",
+        "status": "Completed",
+        "description": "Core smart contract sandbox and developer SDK released."
+      },
+      {
+        "title": "Developer Onboarding",
+        "date": "Feb 2026",
+        "status": "Active",
+        "description": "Over 12,000 certified spatial and mobile tools registered."
+      },
+      {
+        "title": "Spatial App Store Update",
+        "date": "Q3 2026",
+        "status": "Upcoming",
+        "description": "Direct 3D holographic tool installation for BEDHA Vision."
+      }
+    ],
+    "futureVision": "A friction-free global digital bazaar where creation is immediately rewarded and users have full autonomy over their applications and data.",
+    "metrics": [
+      {
+        "label": "Registered Apps",
+        "value": "18,500+",
+        "change": "+140%"
+      },
+      {
+        "label": "Security Score",
+        "value": "100% Audited",
+        "change": "Zero Exploit"
+      },
+      {
+        "label": "Dev Revenue Share",
+        "value": "95%",
+        "change": "Industry Max"
+      }
+    ],
+    "tags": [
+      "App Store",
+      "Decentralized",
+      "Developer Platform",
+      "BEDHA OS"
+    ],
+    "coverImage": "/assets/projects/my_play_store.jpg",
+    "description": "Decentralized Ecosystem App Store",
+    "detailedDescription": "My Play is the ecosystem application hub and digital marketplace connecting developers with millions of users across A1 mobile, BEDHA Vision, and Smart Home devices. Features instant streaming apps, zero-bloat sandbox execution, and transparent developer royalties.",
+    "leadCompany": "My Play Digital Services",
+    "creationDate": "2026-02-15",
+    "features": [
+      "Decentralized Peer-to-Peer App Distribution with instant streaming",
+      "Real-time Security Verification Sandbox preventing malicious telemetry",
+      "Built-in BEDHA Wallet Micro-transactions with zero network gas fees",
+      "Universal Binary Architecture: Single build for Mobile, AR/VR & Smart City"
+    ],
+    "specs": {
+      "Distribution Protocol": "Decentralized Encrypted P2P Matrix",
+      "Execution Sandbox": "WASM-Zero Secure Isolation",
+      "Supported Platforms": "A1 Mobile, BEDHA Vision, BEDHA OS",
+      "Payment Pipeline": "Native BEDHA Wallet & Instant UPI"
+    },
+    "websiteUrl": "https://bedha.internal/my-play",
+    "isFeatured": true
+  },
+  {
+    "id": "proj_fangon",
+    "name": "Fangon",
+    "entity": "Fangon Optical Industries",
+    "category": "Camera Manufacturing Company",
+    "status": "Active",
+    "date": "2026-01-20",
+    "logo": "/assets/projects/fangon_camera_logo.jpg",
+    "heroImage": "/assets/projects/fangon_camera_box.jpg",
+    "gallery": [
+      "/assets/projects/fangon_camera_box.jpg",
+      "/assets/projects/fangon_camera_logo.jpg",
+      "/assets/brand/banner_ecosystem.jpg"
+    ],
+    "shortDescription": "Precision 16K Computational Optics",
+    "fullDescription": "Fangon engineers the world's most precise optoelectronic sensor arrays, computational cinema cameras, and ultra-high-resolution modules for drones, autonomous EVs, and medical imaging devices.",
+    "executiveOverview": "Fangon leads optical physics by synthesizing multi-element fluorite lenses with computational sensor arrays to capture spectral fidelity beyond human sight, even in zero ambient illumination.",
+    "breakthroughs": [
+      "Continuous 16K Optical Sensor Matrix with quantum pixel efficiency",
+      "Real-time Photonic Depth Mapping for autonomous vehicles & cinematography",
+      "Dynamic Micro-mechanic Gimbal Stabilization integrated on sensor plane",
+      "Extreme Low-Light Quantum Pixel Technology capturing color at 0.001 lux"
+    ],
+    "capabilities": [
+      "Cinema-grade 4K/8K/16K uncompressed RAW capture at up to 1200 FPS",
+      "Autonomous object categorization and depth segmentation in under 2ms",
+      "Hermetically sealed titanium barrel resilient to extreme temperatures (-40°C to 85°C)"
+    ],
+    "specifications": [
+      {
+        "key": "Sensor Resolution",
+        "value": "16K Computational Optoelectronic Matrix"
+      },
+      {
+        "key": "Lens Element",
+        "value": "Fluorite Multi-Coated Nano-Crystal Array"
+      },
+      {
+        "key": "Dynamic Range",
+        "value": "18.5 Stops"
+      },
+      {
+        "key": "Stabilization",
+        "value": "7-Axis Micro-Mechanical Sensor Shift"
+      },
+      {
+        "key": "Primary Deployment",
+        "value": "Fangon Digital Cameras, Drones, A1 Mobile, Mobility"
+      }
+    ],
+    "technologies": [
+      "Quantum Pixel",
+      "Computational Optics",
+      "Nano-Crystal Coating",
+      "16K Cinema Sensor"
+    ],
+    "milestones": [
+      {
+        "title": "Optical Sensor Fabrication",
+        "date": "Jan 2026",
+        "status": "Completed",
+        "description": "Quantum pixel array achieved 18.5 stops dynamic range."
+      },
+      {
+        "title": "Retail Packaging & Camera Release",
+        "date": "Feb 2026",
+        "status": "Active",
+        "description": "Fangon Professional Digital Camera 4K Ultra HD in production."
+      },
+      {
+        "title": "Autonomous EV Vision Package",
+        "date": "Q4 2026",
+        "status": "Upcoming",
+        "description": "Integration into BEDHA Mobility fleet prototypes."
+      }
+    ],
+    "futureVision": "Unlocking universal machine and human perception with optical sensors that capture the full electromagnetic spectrum in real time.",
+    "metrics": [
+      {
+        "label": "Dynamic Range",
+        "value": "18.5 Stops",
+        "change": "+3.5 Stops"
+      },
+      {
+        "label": "Low-Light Sensitivity",
+        "value": "0.001 Lux",
+        "change": "+500%"
+      },
+      {
+        "label": "Optical Resolution",
+        "value": "16K Matrix",
+        "change": "Industry First"
+      }
+    ],
+    "tags": [
+      "Optics",
+      "Camera Manufacturing",
+      "Cinematography",
+      "Sensors"
+    ],
+    "coverImage": "/assets/projects/fangon_camera_box.jpg",
+    "description": "Precision 16K Computational Optics",
+    "detailedDescription": "Fangon engineers the world's most precise optoelectronic sensor arrays, computational cinema cameras, and ultra-high-resolution modules for drones, autonomous EVs, and medical imaging devices.",
+    "leadCompany": "Fangon Optical Industries",
+    "creationDate": "2026-01-20",
+    "features": [
+      "Continuous 16K Optical Sensor Matrix with quantum pixel efficiency",
+      "Real-time Photonic Depth Mapping for autonomous vehicles & cinematography",
+      "Dynamic Micro-mechanic Gimbal Stabilization integrated on sensor plane",
+      "Extreme Low-Light Quantum Pixel Technology capturing color at 0.001 lux"
+    ],
+    "specs": {
+      "Sensor Resolution": "16K Computational Optoelectronic Matrix",
+      "Lens Element": "Fluorite Multi-Coated Nano-Crystal Array",
+      "Dynamic Range": "18.5 Stops",
+      "Stabilization": "7-Axis Micro-Mechanical Sensor Shift",
+      "Primary Deployment": "Fangon Digital Cameras, Drones, A1 Mobile, Mobility"
+    },
+    "websiteUrl": "https://bedha.internal/fangon-optics",
+    "isFeatured": true
+  },
+  {
+    "id": "proj_ai",
+    "name": "BEDHA AI",
+    "entity": "BEDHA Artificial Intelligence Labs",
+    "category": "Artificial Intelligence",
+    "status": "Active",
+    "date": "2026-01-01",
+    "logo": "/assets/brand/bedha_ai_robot.jpg",
+    "heroImage": "/assets/brand/bedha_ai_robot.jpg",
+    "gallery": [
+      "/assets/brand/bedha_ai_robot.jpg"
+    ],
+    "shortDescription": "AI Assistant & Intelligent Systems",
+    "fullDescription": "BEDHA AI is the cognitive backbone of the entire ecosystem. Combining multivariant neural language modeling with sensory vision models, BEDHA AI guides users, orchestrates HIMADRI municipal sensors, and optimizes energy distribution autonomously.",
+    "executiveOverview": "BEDHA AI is the cognitive backbone of the entire ecosystem. Combining multivariant neural language modeling with sensory vision models, BEDHA AI guides users, orchestrates HIMADRI municipal sensors, and optimizes energy distribution autonomously.",
+    "breakthroughs": [
+      "Zero-Latency Conversational Reasoning",
+      "Cross-Device Context Awareness & Sync",
+      "Ecosystem Telemetry & Code Synthesizer",
+      "Privacy-First Local Silicon Edge Execution"
+    ],
+    "capabilities": [
+      "Zero-Latency Conversational Reasoning",
+      "Cross-Device Context Awareness & Sync",
+      "Ecosystem Telemetry & Code Synthesizer",
+      "Privacy-First Local Silicon Edge Execution"
+    ],
+    "specifications": [
+      {
+        "key": "Architecture",
+        "value": "BEDHA AI Gen 1"
+      },
+      {
+        "key": "Integration",
+        "value": "BEDHA Neural Grid"
+      }
+    ],
+    "technologies": [
+      "Neural Compute",
+      "Quantum Photonic",
+      "Autonomous Logic"
+    ],
+    "milestones": [
+      {
+        "title": "Foundational Research",
+        "date": "Q1 2026",
+        "status": "Completed",
+        "description": "Core architectural validation completed."
+      },
+      {
+        "title": "Ecosystem Deployment",
+        "date": "Q2 2026",
+        "status": "Active",
+        "description": "Live integration across BEDHA infrastructure."
+      }
+    ],
+    "futureVision": "Pioneering the future of artificial intelligence across the global BEDHA ecosystem.",
+    "metrics": [
+      {
+        "label": "Efficiency Index",
+        "value": "99.4%",
+        "change": "+18%"
+      },
+      {
+        "label": "Grid Latency",
+        "value": "< 2.4ms",
+        "change": "-40%"
+      }
+    ],
+    "tags": [
+      "Artificial Intelligence",
+      "Innovation",
+      "BEDHA 2026"
+    ],
+    "coverImage": "/assets/brand/bedha_ai_robot.jpg",
+    "description": "AI Assistant & Intelligent Systems",
+    "detailedDescription": "BEDHA AI is the cognitive backbone of the entire ecosystem. Combining multivariant neural language modeling with sensory vision models, BEDHA AI guides users, orchestrates HIMADRI municipal sensors, and optimizes energy distribution autonomously.",
+    "leadCompany": "BEDHA Artificial Intelligence Labs",
+    "creationDate": "2026-01-01",
+    "features": [
+      "Zero-Latency Conversational Reasoning",
+      "Cross-Device Context Awareness & Sync",
+      "Ecosystem Telemetry & Code Synthesizer",
+      "Privacy-First Local Silicon Edge Execution"
+    ],
+    "specs": {
+      "Architecture": "BEDHA AI Gen 1",
+      "Integration": "BEDHA Neural Grid"
+    },
+    "websiteUrl": "https://bedha.internal/bedha-ai",
+    "isFeatured": true
+  },
+  {
+    "id": "proj_robotics",
+    "name": "BEDHA Robotics",
+    "entity": "BEDHA Robotics Division",
+    "category": "Robotics",
+    "status": "Development",
+    "date": "2026-02-10",
+    "logo": "/assets/brand/bedha_logo.jpg",
+    "heroImage": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "shortDescription": "Humanoid / Industrial Robotics",
+    "fullDescription": "BEDHA Robotics produces humanoid cybernetic units and industrial harmonic manipulators designed for dangerous aerospace assembly, hazardous facility management, and empathetic healthcare assistance.",
+    "executiveOverview": "BEDHA Robotics produces humanoid cybernetic units and industrial harmonic manipulators designed for dangerous aerospace assembly, hazardous facility management, and empathetic healthcare assistance.",
+    "breakthroughs": [
+      "Biomimetic Tendon-Actuated Joints",
+      "Real-time Dynamic Balance Gyroscopes",
+      "Adaptive Soft-touch Sensory Grippers",
+      "Certified Autonomous Industrial Safety Logic"
+    ],
+    "capabilities": [
+      "Biomimetic Tendon-Actuated Joints",
+      "Real-time Dynamic Balance Gyroscopes",
+      "Adaptive Soft-touch Sensory Grippers",
+      "Certified Autonomous Industrial Safety Logic"
+    ],
+    "specifications": [
+      {
+        "key": "Architecture",
+        "value": "BEDHA Robotics Gen 1"
+      },
+      {
+        "key": "Integration",
+        "value": "BEDHA Neural Grid"
+      }
+    ],
+    "technologies": [
+      "Neural Compute",
+      "Quantum Photonic",
+      "Autonomous Logic"
+    ],
+    "milestones": [
+      {
+        "title": "Foundational Research",
+        "date": "Q1 2026",
+        "status": "Completed",
+        "description": "Core architectural validation completed."
+      },
+      {
+        "title": "Ecosystem Deployment",
+        "date": "Q2 2026",
+        "status": "Active",
+        "description": "Live integration across BEDHA infrastructure."
+      }
+    ],
+    "futureVision": "Pioneering the future of robotics across the global BEDHA ecosystem.",
+    "metrics": [
+      {
+        "label": "Efficiency Index",
+        "value": "99.4%",
+        "change": "+18%"
+      },
+      {
+        "label": "Grid Latency",
+        "value": "< 2.4ms",
+        "change": "-40%"
+      }
+    ],
+    "tags": [
+      "Robotics",
+      "Innovation",
+      "BEDHA 2026"
+    ],
+    "coverImage": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
+    "description": "Humanoid / Industrial Robotics",
+    "detailedDescription": "BEDHA Robotics produces humanoid cybernetic units and industrial harmonic manipulators designed for dangerous aerospace assembly, hazardous facility management, and empathetic healthcare assistance.",
+    "leadCompany": "BEDHA Robotics Division",
+    "creationDate": "2026-02-10",
+    "features": [
+      "Biomimetic Tendon-Actuated Joints",
+      "Real-time Dynamic Balance Gyroscopes",
+      "Adaptive Soft-touch Sensory Grippers",
+      "Certified Autonomous Industrial Safety Logic"
+    ],
+    "specs": {
+      "Architecture": "BEDHA Robotics Gen 1",
+      "Integration": "BEDHA Neural Grid"
+    },
+    "websiteUrl": "https://bedha.internal/bedha-robotics",
+    "isFeatured": true
+  },
+  {
+    "id": "proj_home",
+    "name": "BEDHA Home",
+    "entity": "BEDHA Living Systems",
+    "category": "Smart Home",
+    "status": "Active",
+    "date": "2026-01-25",
+    "logo": "/assets/brand/bedha_logo.jpg",
+    "heroImage": "https://images.unsplash.com/photo-1558002038-1055907df827?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1558002038-1055907df827?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "shortDescription": "Smart Home Ecosystem",
+    "fullDescription": "BEDHA Home transforms living spaces into responsive, symbiotic sanctuaries. Through predictive climate tuning, circadian bio-lighting, and ambient security wards, BEDHA Home learns family preferences effortlessly.",
+    "executiveOverview": "BEDHA Home transforms living spaces into responsive, symbiotic sanctuaries. Through predictive climate tuning, circadian bio-lighting, and ambient security wards, BEDHA Home learns family preferences effortlessly.",
+    "breakthroughs": [
+      "Predictive Biometric Climate Calibration",
+      "Solar-Storage Microgrid Balancing",
+      "Touchless Gesture & Acoustic Command Zones",
+      "End-to-End Quantum Encrypted Mesh Protocol"
+    ],
+    "capabilities": [
+      "Predictive Biometric Climate Calibration",
+      "Solar-Storage Microgrid Balancing",
+      "Touchless Gesture & Acoustic Command Zones",
+      "End-to-End Quantum Encrypted Mesh Protocol"
+    ],
+    "specifications": [
+      {
+        "key": "Architecture",
+        "value": "BEDHA Home Gen 1"
+      },
+      {
+        "key": "Integration",
+        "value": "BEDHA Neural Grid"
+      }
+    ],
+    "technologies": [
+      "Neural Compute",
+      "Quantum Photonic",
+      "Autonomous Logic"
+    ],
+    "milestones": [
+      {
+        "title": "Foundational Research",
+        "date": "Q1 2026",
+        "status": "Completed",
+        "description": "Core architectural validation completed."
+      },
+      {
+        "title": "Ecosystem Deployment",
+        "date": "Q2 2026",
+        "status": "Active",
+        "description": "Live integration across BEDHA infrastructure."
+      }
+    ],
+    "futureVision": "Pioneering the future of smart home across the global BEDHA ecosystem.",
+    "metrics": [
+      {
+        "label": "Efficiency Index",
+        "value": "99.4%",
+        "change": "+18%"
+      },
+      {
+        "label": "Grid Latency",
+        "value": "< 2.4ms",
+        "change": "-40%"
+      }
+    ],
+    "tags": [
+      "Smart Home",
+      "Innovation",
+      "BEDHA 2026"
+    ],
+    "coverImage": "https://images.unsplash.com/photo-1558002038-1055907df827?auto=format&fit=crop&w=1200&q=80",
+    "description": "Smart Home Ecosystem",
+    "detailedDescription": "BEDHA Home transforms living spaces into responsive, symbiotic sanctuaries. Through predictive climate tuning, circadian bio-lighting, and ambient security wards, BEDHA Home learns family preferences effortlessly.",
+    "leadCompany": "BEDHA Living Systems",
+    "creationDate": "2026-01-25",
+    "features": [
+      "Predictive Biometric Climate Calibration",
+      "Solar-Storage Microgrid Balancing",
+      "Touchless Gesture & Acoustic Command Zones",
+      "End-to-End Quantum Encrypted Mesh Protocol"
+    ],
+    "specs": {
+      "Architecture": "BEDHA Home Gen 1",
+      "Integration": "BEDHA Neural Grid"
+    },
+    "websiteUrl": "https://bedha.internal/bedha-home",
+    "isFeatured": true
+  },
+  {
+    "id": "proj_drones",
+    "name": "BEDHA Drones",
+    "entity": "BEDHA Autonomous Aerospace",
+    "category": "Drones",
+    "status": "Active",
+    "date": "2026-02-05",
+    "logo": "/assets/brand/bedha_logo.jpg",
+    "heroImage": "https://images.unsplash.com/photo-1508614589041-895b88991e3e?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1508614589041-895b88991e3e?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "shortDescription": "Autonomous Drones",
+    "fullDescription": "Autonomous aerial vehicles designed for medical delivery logistics, disaster relief reconnaissance, environmental forest canopy monitoring, and high-altitude wireless relay arrays.",
+    "executiveOverview": "Autonomous aerial vehicles designed for medical delivery logistics, disaster relief reconnaissance, environmental forest canopy monitoring, and high-altitude wireless relay arrays.",
+    "breakthroughs": [
+      "LiDAR & Optical Swarm Avoidance Mesh",
+      "Solar-Boosted 8-Hour Flight Endurance",
+      "Precision All-Weather Payload Deployer",
+      "Encrypted Real-Time Aerial Telemetry"
+    ],
+    "capabilities": [
+      "LiDAR & Optical Swarm Avoidance Mesh",
+      "Solar-Boosted 8-Hour Flight Endurance",
+      "Precision All-Weather Payload Deployer",
+      "Encrypted Real-Time Aerial Telemetry"
+    ],
+    "specifications": [
+      {
+        "key": "Architecture",
+        "value": "BEDHA Drones Gen 1"
+      },
+      {
+        "key": "Integration",
+        "value": "BEDHA Neural Grid"
+      }
+    ],
+    "technologies": [
+      "Neural Compute",
+      "Quantum Photonic",
+      "Autonomous Logic"
+    ],
+    "milestones": [
+      {
+        "title": "Foundational Research",
+        "date": "Q1 2026",
+        "status": "Completed",
+        "description": "Core architectural validation completed."
+      },
+      {
+        "title": "Ecosystem Deployment",
+        "date": "Q2 2026",
+        "status": "Active",
+        "description": "Live integration across BEDHA infrastructure."
+      }
+    ],
+    "futureVision": "Pioneering the future of drones across the global BEDHA ecosystem.",
+    "metrics": [
+      {
+        "label": "Efficiency Index",
+        "value": "99.4%",
+        "change": "+18%"
+      },
+      {
+        "label": "Grid Latency",
+        "value": "< 2.4ms",
+        "change": "-40%"
+      }
+    ],
+    "tags": [
+      "Drones",
+      "Innovation",
+      "BEDHA 2026"
+    ],
+    "coverImage": "https://images.unsplash.com/photo-1508614589041-895b88991e3e?auto=format&fit=crop&w=1200&q=80",
+    "description": "Autonomous Drones",
+    "detailedDescription": "Autonomous aerial vehicles designed for medical delivery logistics, disaster relief reconnaissance, environmental forest canopy monitoring, and high-altitude wireless relay arrays.",
+    "leadCompany": "BEDHA Autonomous Aerospace",
+    "creationDate": "2026-02-05",
+    "features": [
+      "LiDAR & Optical Swarm Avoidance Mesh",
+      "Solar-Boosted 8-Hour Flight Endurance",
+      "Precision All-Weather Payload Deployer",
+      "Encrypted Real-Time Aerial Telemetry"
+    ],
+    "specs": {
+      "Architecture": "BEDHA Drones Gen 1",
+      "Integration": "BEDHA Neural Grid"
+    },
+    "websiteUrl": "https://bedha.internal/bedha-drones",
+    "isFeatured": true
+  },
+  {
+    "id": "proj_mobility",
+    "name": "BEDHA Mobility",
+    "entity": "BEDHA Mobility Inc.",
+    "category": "Mobility",
+    "status": "Development",
+    "date": "2026-02-12",
+    "logo": "/assets/brand/bedha_logo.jpg",
+    "heroImage": "https://images.unsplash.com/photo-1563720223185-11003d516935?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1563720223185-11003d516935?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "shortDescription": "Intelligent Electric Vehicles",
+    "fullDescription": "Next-generation electric passenger and transport vehicles engineered with structural solid-state battery packs, steer-by-wire dual-motor torque vectoring, and level 4 autonomous highway cruising.",
+    "executiveOverview": "Next-generation electric passenger and transport vehicles engineered with structural solid-state battery packs, steer-by-wire dual-motor torque vectoring, and level 4 autonomous highway cruising.",
+    "breakthroughs": [
+      "1,000 km Single Charge Solid-State Cell",
+      "Dual-Motor 800V Ultra-Fast Architecture",
+      "Aerodynamic Drag Coefficient 0.19 Cd",
+      "Autonomous Summon & Automated Docking"
+    ],
+    "capabilities": [
+      "1,000 km Single Charge Solid-State Cell",
+      "Dual-Motor 800V Ultra-Fast Architecture",
+      "Aerodynamic Drag Coefficient 0.19 Cd",
+      "Autonomous Summon & Automated Docking"
+    ],
+    "specifications": [
+      {
+        "key": "Architecture",
+        "value": "BEDHA Mobility Gen 1"
+      },
+      {
+        "key": "Integration",
+        "value": "BEDHA Neural Grid"
+      }
+    ],
+    "technologies": [
+      "Neural Compute",
+      "Quantum Photonic",
+      "Autonomous Logic"
+    ],
+    "milestones": [
+      {
+        "title": "Foundational Research",
+        "date": "Q1 2026",
+        "status": "Completed",
+        "description": "Core architectural validation completed."
+      },
+      {
+        "title": "Ecosystem Deployment",
+        "date": "Q2 2026",
+        "status": "Active",
+        "description": "Live integration across BEDHA infrastructure."
+      }
+    ],
+    "futureVision": "Pioneering the future of mobility across the global BEDHA ecosystem.",
+    "metrics": [
+      {
+        "label": "Efficiency Index",
+        "value": "99.4%",
+        "change": "+18%"
+      },
+      {
+        "label": "Grid Latency",
+        "value": "< 2.4ms",
+        "change": "-40%"
+      }
+    ],
+    "tags": [
+      "Mobility",
+      "Innovation",
+      "BEDHA 2026"
+    ],
+    "coverImage": "https://images.unsplash.com/photo-1563720223185-11003d516935?auto=format&fit=crop&w=1200&q=80",
+    "description": "Intelligent Electric Vehicles",
+    "detailedDescription": "Next-generation electric passenger and transport vehicles engineered with structural solid-state battery packs, steer-by-wire dual-motor torque vectoring, and level 4 autonomous highway cruising.",
+    "leadCompany": "BEDHA Mobility Inc.",
+    "creationDate": "2026-02-12",
+    "features": [
+      "1,000 km Single Charge Solid-State Cell",
+      "Dual-Motor 800V Ultra-Fast Architecture",
+      "Aerodynamic Drag Coefficient 0.19 Cd",
+      "Autonomous Summon & Automated Docking"
+    ],
+    "specs": {
+      "Architecture": "BEDHA Mobility Gen 1",
+      "Integration": "BEDHA Neural Grid"
+    },
+    "websiteUrl": "https://bedha.internal/bedha-mobility",
+    "isFeatured": true
+  },
+  {
+    "id": "proj_aero",
+    "name": "BEDHA Aero",
+    "entity": "BEDHA Aero Systems",
+    "category": "Aviation",
+    "status": "Vision",
+    "date": "2026-01-30",
+    "logo": "/assets/brand/bedha_logo.jpg",
+    "heroImage": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "shortDescription": "Aviation & Future Mobility",
+    "fullDescription": "BEDHA Aero develops electric vertical takeoff and landing (eVTOL) passenger shuttles and low-emission regional aviation aircraft connecting future smart cities with quiet, rapid transit corridors.",
+    "executiveOverview": "BEDHA Aero develops electric vertical takeoff and landing (eVTOL) passenger shuttles and low-emission regional aviation aircraft connecting future smart cities with quiet, rapid transit corridors.",
+    "breakthroughs": [
+      "Quiet Tilt-Rotor Multi-propeller Thrust",
+      "Triple-Redundant Fly-By-Light Avionics",
+      "Zero Direct Carbon Emission Propulsion",
+      "Inter-City Skyport Rapid Turnaround"
+    ],
+    "capabilities": [
+      "Quiet Tilt-Rotor Multi-propeller Thrust",
+      "Triple-Redundant Fly-By-Light Avionics",
+      "Zero Direct Carbon Emission Propulsion",
+      "Inter-City Skyport Rapid Turnaround"
+    ],
+    "specifications": [
+      {
+        "key": "Architecture",
+        "value": "BEDHA Aero Gen 1"
+      },
+      {
+        "key": "Integration",
+        "value": "BEDHA Neural Grid"
+      }
+    ],
+    "technologies": [
+      "Neural Compute",
+      "Quantum Photonic",
+      "Autonomous Logic"
+    ],
+    "milestones": [
+      {
+        "title": "Foundational Research",
+        "date": "Q1 2026",
+        "status": "Completed",
+        "description": "Core architectural validation completed."
+      },
+      {
+        "title": "Ecosystem Deployment",
+        "date": "Q2 2026",
+        "status": "Active",
+        "description": "Live integration across BEDHA infrastructure."
+      }
+    ],
+    "futureVision": "Pioneering the future of aviation across the global BEDHA ecosystem.",
+    "metrics": [
+      {
+        "label": "Efficiency Index",
+        "value": "99.4%",
+        "change": "+18%"
+      },
+      {
+        "label": "Grid Latency",
+        "value": "< 2.4ms",
+        "change": "-40%"
+      }
+    ],
+    "tags": [
+      "Aviation",
+      "Innovation",
+      "BEDHA 2026"
+    ],
+    "coverImage": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&w=1200&q=80",
+    "description": "Aviation & Future Mobility",
+    "detailedDescription": "BEDHA Aero develops electric vertical takeoff and landing (eVTOL) passenger shuttles and low-emission regional aviation aircraft connecting future smart cities with quiet, rapid transit corridors.",
+    "leadCompany": "BEDHA Aero Systems",
+    "creationDate": "2026-01-30",
+    "features": [
+      "Quiet Tilt-Rotor Multi-propeller Thrust",
+      "Triple-Redundant Fly-By-Light Avionics",
+      "Zero Direct Carbon Emission Propulsion",
+      "Inter-City Skyport Rapid Turnaround"
+    ],
+    "specs": {
+      "Architecture": "BEDHA Aero Gen 1",
+      "Integration": "BEDHA Neural Grid"
+    },
+    "websiteUrl": "https://bedha.internal/bedha-aero",
+    "isFeatured": true
+  },
+  {
+    "id": "proj_himadri",
+    "name": "HIMADRI",
+    "entity": "HIMADRI Urban Developments",
+    "category": "Smart City",
+    "status": "Active",
+    "date": "2026-01-10",
+    "logo": "/assets/brand/bedha_logo.jpg",
+    "heroImage": "/assets/brand/banner_ecosystem.jpg",
+    "gallery": [
+      "/assets/brand/banner_ecosystem.jpg"
+    ],
+    "shortDescription": "Smart City Ecosystem",
+    "fullDescription": "HIMADRI is a visionary civil blueprint and real-time metropolitan operating system for sustainable futuristic cities. Unifies smart traffic signals, digital water conservation grids, automated waste routing, and citizen welfare networks.",
+    "executiveOverview": "HIMADRI is a visionary civil blueprint and real-time metropolitan operating system for sustainable futuristic cities. Unifies smart traffic signals, digital water conservation grids, automated waste routing, and citizen welfare networks.",
+    "breakthroughs": [
+      "Dynamic AI-Orchestrated Traffic Flow",
+      "Automated Subsurface Waste Vacuum Tubing",
+      "Smart Desalination & Aquifer Monitoring",
+      "Universal Citizen Digital ID & Welfare Grid"
+    ],
+    "capabilities": [
+      "Dynamic AI-Orchestrated Traffic Flow",
+      "Automated Subsurface Waste Vacuum Tubing",
+      "Smart Desalination & Aquifer Monitoring",
+      "Universal Citizen Digital ID & Welfare Grid"
+    ],
+    "specifications": [
+      {
+        "key": "Architecture",
+        "value": "HIMADRI Gen 1"
+      },
+      {
+        "key": "Integration",
+        "value": "BEDHA Neural Grid"
+      }
+    ],
+    "technologies": [
+      "Neural Compute",
+      "Quantum Photonic",
+      "Autonomous Logic"
+    ],
+    "milestones": [
+      {
+        "title": "Foundational Research",
+        "date": "Q1 2026",
+        "status": "Completed",
+        "description": "Core architectural validation completed."
+      },
+      {
+        "title": "Ecosystem Deployment",
+        "date": "Q2 2026",
+        "status": "Active",
+        "description": "Live integration across BEDHA infrastructure."
+      }
+    ],
+    "futureVision": "Pioneering the future of smart city across the global BEDHA ecosystem.",
+    "metrics": [
+      {
+        "label": "Efficiency Index",
+        "value": "99.4%",
+        "change": "+18%"
+      },
+      {
+        "label": "Grid Latency",
+        "value": "< 2.4ms",
+        "change": "-40%"
+      }
+    ],
+    "tags": [
+      "Smart City",
+      "Innovation",
+      "BEDHA 2026"
+    ],
+    "coverImage": "/assets/brand/banner_ecosystem.jpg",
+    "description": "Smart City Ecosystem",
+    "detailedDescription": "HIMADRI is a visionary civil blueprint and real-time metropolitan operating system for sustainable futuristic cities. Unifies smart traffic signals, digital water conservation grids, automated waste routing, and citizen welfare networks.",
+    "leadCompany": "HIMADRI Urban Developments",
+    "creationDate": "2026-01-10",
+    "features": [
+      "Dynamic AI-Orchestrated Traffic Flow",
+      "Automated Subsurface Waste Vacuum Tubing",
+      "Smart Desalination & Aquifer Monitoring",
+      "Universal Citizen Digital ID & Welfare Grid"
+    ],
+    "specs": {
+      "Architecture": "HIMADRI Gen 1",
+      "Integration": "BEDHA Neural Grid"
+    },
+    "websiteUrl": "https://bedha.internal/himadri",
+    "isFeatured": true
+  },
+  {
+    "id": "proj_cloud",
+    "name": "BEDHA Cloud",
+    "entity": "BEDHA Cloud Infrastructure",
+    "category": "Cloud",
+    "status": "Active",
+    "date": "2026-01-05",
+    "logo": "/assets/brand/bedha_logo.jpg",
+    "heroImage": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "shortDescription": "AI / Cloud Infrastructure",
+    "fullDescription": "Distributed sovereign cloud infrastructure engineered for hyperscale AI model training, zero-knowledge relational storage, edge compute delivery, and global developer API hosting.",
+    "executiveOverview": "Distributed sovereign cloud infrastructure engineered for hyperscale AI model training, zero-knowledge relational storage, edge compute delivery, and global developer API hosting.",
+    "breakthroughs": [
+      "Global 200+ Edge Micro-Datacenters",
+      "Hardware-Enforced Zero Knowledge Enclaves",
+      "Sub-5ms Global API Latency Routing",
+      "Carbon-Negative Geothermal & Solar Powered"
+    ],
+    "capabilities": [
+      "Global 200+ Edge Micro-Datacenters",
+      "Hardware-Enforced Zero Knowledge Enclaves",
+      "Sub-5ms Global API Latency Routing",
+      "Carbon-Negative Geothermal & Solar Powered"
+    ],
+    "specifications": [
+      {
+        "key": "Architecture",
+        "value": "BEDHA Cloud Gen 1"
+      },
+      {
+        "key": "Integration",
+        "value": "BEDHA Neural Grid"
+      }
+    ],
+    "technologies": [
+      "Neural Compute",
+      "Quantum Photonic",
+      "Autonomous Logic"
+    ],
+    "milestones": [
+      {
+        "title": "Foundational Research",
+        "date": "Q1 2026",
+        "status": "Completed",
+        "description": "Core architectural validation completed."
+      },
+      {
+        "title": "Ecosystem Deployment",
+        "date": "Q2 2026",
+        "status": "Active",
+        "description": "Live integration across BEDHA infrastructure."
+      }
+    ],
+    "futureVision": "Pioneering the future of cloud across the global BEDHA ecosystem.",
+    "metrics": [
+      {
+        "label": "Efficiency Index",
+        "value": "99.4%",
+        "change": "+18%"
+      },
+      {
+        "label": "Grid Latency",
+        "value": "< 2.4ms",
+        "change": "-40%"
+      }
+    ],
+    "tags": [
+      "Cloud",
+      "Innovation",
+      "BEDHA 2026"
+    ],
+    "coverImage": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+    "description": "AI / Cloud Infrastructure",
+    "detailedDescription": "Distributed sovereign cloud infrastructure engineered for hyperscale AI model training, zero-knowledge relational storage, edge compute delivery, and global developer API hosting.",
+    "leadCompany": "BEDHA Cloud Infrastructure",
+    "creationDate": "2026-01-05",
+    "features": [
+      "Global 200+ Edge Micro-Datacenters",
+      "Hardware-Enforced Zero Knowledge Enclaves",
+      "Sub-5ms Global API Latency Routing",
+      "Carbon-Negative Geothermal & Solar Powered"
+    ],
+    "specs": {
+      "Architecture": "BEDHA Cloud Gen 1",
+      "Integration": "BEDHA Neural Grid"
+    },
+    "websiteUrl": "https://bedha.internal/bedha-cloud",
+    "isFeatured": true
+  },
+  {
+    "id": "proj_secure",
+    "name": "BEDHA Secure",
+    "entity": "BEDHA Secure Systems",
+    "category": "Cybersecurity",
+    "status": "Active",
+    "date": "2026-02-18",
+    "logo": "/assets/brand/bedha_logo.jpg",
+    "heroImage": "https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "shortDescription": "Cybersecurity",
+    "fullDescription": "Military-grade post-quantum cryptographic shields, real-time intrusion interception, biometric identity attestation, and autonomic network self-healing engines guarding critical infrastructure.",
+    "executiveOverview": "Military-grade post-quantum cryptographic shields, real-time intrusion interception, biometric identity attestation, and autonomic network self-healing engines guarding critical infrastructure.",
+    "breakthroughs": [
+      "Post-Quantum Lattice-Based Cryptography",
+      "Autonomous AI Threat Neutralizer",
+      "Zero-Trust Immutable Audit Ledger",
+      "Decentralized Biometric Attestation"
+    ],
+    "capabilities": [
+      "Post-Quantum Lattice-Based Cryptography",
+      "Autonomous AI Threat Neutralizer",
+      "Zero-Trust Immutable Audit Ledger",
+      "Decentralized Biometric Attestation"
+    ],
+    "specifications": [
+      {
+        "key": "Architecture",
+        "value": "BEDHA Secure Gen 1"
+      },
+      {
+        "key": "Integration",
+        "value": "BEDHA Neural Grid"
+      }
+    ],
+    "technologies": [
+      "Neural Compute",
+      "Quantum Photonic",
+      "Autonomous Logic"
+    ],
+    "milestones": [
+      {
+        "title": "Foundational Research",
+        "date": "Q1 2026",
+        "status": "Completed",
+        "description": "Core architectural validation completed."
+      },
+      {
+        "title": "Ecosystem Deployment",
+        "date": "Q2 2026",
+        "status": "Active",
+        "description": "Live integration across BEDHA infrastructure."
+      }
+    ],
+    "futureVision": "Pioneering the future of cybersecurity across the global BEDHA ecosystem.",
+    "metrics": [
+      {
+        "label": "Efficiency Index",
+        "value": "99.4%",
+        "change": "+18%"
+      },
+      {
+        "label": "Grid Latency",
+        "value": "< 2.4ms",
+        "change": "-40%"
+      }
+    ],
+    "tags": [
+      "Cybersecurity",
+      "Innovation",
+      "BEDHA 2026"
+    ],
+    "coverImage": "https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&w=1200&q=80",
+    "description": "Cybersecurity",
+    "detailedDescription": "Military-grade post-quantum cryptographic shields, real-time intrusion interception, biometric identity attestation, and autonomic network self-healing engines guarding critical infrastructure.",
+    "leadCompany": "BEDHA Secure Systems",
+    "creationDate": "2026-02-18",
+    "features": [
+      "Post-Quantum Lattice-Based Cryptography",
+      "Autonomous AI Threat Neutralizer",
+      "Zero-Trust Immutable Audit Ledger",
+      "Decentralized Biometric Attestation"
+    ],
+    "specs": {
+      "Architecture": "BEDHA Secure Gen 1",
+      "Integration": "BEDHA Neural Grid"
+    },
+    "websiteUrl": "https://bedha.internal/bedha-secure",
+    "isFeatured": true
+  },
+  {
+    "id": "proj_vision",
+    "name": "BEDHA Vision",
+    "entity": "BEDHA Vision Labs",
+    "category": "AR/VR",
+    "status": "Beta",
+    "date": "2026-02-22",
+    "logo": "/assets/brand/bedha_logo.jpg",
+    "heroImage": "https://images.unsplash.com/photo-1593508512255-86ab42a8e620?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1593508512255-86ab42a8e620?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "shortDescription": "AR/VR & Spatial Computing",
+    "fullDescription": "Ultra-lightweight spatial eyewear with photonic retinal projection, micro-gesture tracking, and hyper-realistic digital twin overlays for engineering, surgical telepresence, and creative studios.",
+    "executiveOverview": "Ultra-lightweight spatial eyewear with photonic retinal projection, micro-gesture tracking, and hyper-realistic digital twin overlays for engineering, surgical telepresence, and creative studios.",
+    "breakthroughs": [
+      "Direct Retinal Waveguide Holography",
+      "Millimeter-Accurate Spatial Anchor Engine",
+      "Neural EMG Wristband Control Interface",
+      "Seamless Sync with A1 and My Play Ecosystem"
+    ],
+    "capabilities": [
+      "Direct Retinal Waveguide Holography",
+      "Millimeter-Accurate Spatial Anchor Engine",
+      "Neural EMG Wristband Control Interface",
+      "Seamless Sync with A1 and My Play Ecosystem"
+    ],
+    "specifications": [
+      {
+        "key": "Architecture",
+        "value": "BEDHA Vision Gen 1"
+      },
+      {
+        "key": "Integration",
+        "value": "BEDHA Neural Grid"
+      }
+    ],
+    "technologies": [
+      "Neural Compute",
+      "Quantum Photonic",
+      "Autonomous Logic"
+    ],
+    "milestones": [
+      {
+        "title": "Foundational Research",
+        "date": "Q1 2026",
+        "status": "Completed",
+        "description": "Core architectural validation completed."
+      },
+      {
+        "title": "Ecosystem Deployment",
+        "date": "Q2 2026",
+        "status": "Active",
+        "description": "Live integration across BEDHA infrastructure."
+      }
+    ],
+    "futureVision": "Pioneering the future of ar/vr across the global BEDHA ecosystem.",
+    "metrics": [
+      {
+        "label": "Efficiency Index",
+        "value": "99.4%",
+        "change": "+18%"
+      },
+      {
+        "label": "Grid Latency",
+        "value": "< 2.4ms",
+        "change": "-40%"
+      }
+    ],
+    "tags": [
+      "AR/VR",
+      "Innovation",
+      "BEDHA 2026"
+    ],
+    "coverImage": "https://images.unsplash.com/photo-1593508512255-86ab42a8e620?auto=format&fit=crop&w=1200&q=80",
+    "description": "AR/VR & Spatial Computing",
+    "detailedDescription": "Ultra-lightweight spatial eyewear with photonic retinal projection, micro-gesture tracking, and hyper-realistic digital twin overlays for engineering, surgical telepresence, and creative studios.",
+    "leadCompany": "BEDHA Vision Labs",
+    "creationDate": "2026-02-22",
+    "features": [
+      "Direct Retinal Waveguide Holography",
+      "Millimeter-Accurate Spatial Anchor Engine",
+      "Neural EMG Wristband Control Interface",
+      "Seamless Sync with A1 and My Play Ecosystem"
+    ],
+    "specs": {
+      "Architecture": "BEDHA Vision Gen 1",
+      "Integration": "BEDHA Neural Grid"
+    },
+    "websiteUrl": "https://bedha.internal/bedha-vision",
+    "isFeatured": true
+  },
+  {
+    "id": "proj_space",
+    "name": "BEDHA Space",
+    "entity": "BEDHA Space Exploration",
+    "category": "Space Technology",
+    "status": "Vision",
+    "date": "2026-01-18",
+    "logo": "/assets/brand/bedha_logo.jpg",
+    "heroImage": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "shortDescription": "Future Space Technology",
+    "fullDescription": "Pioneering reusable orbital transport craft, orbital solar power collectors, lunar surface habitat robotics, and laser deep-space communication relays expanding human horizons beyond Earth.",
+    "executiveOverview": "Pioneering reusable orbital transport craft, orbital solar power collectors, lunar surface habitat robotics, and laser deep-space communication relays expanding human horizons beyond Earth.",
+    "breakthroughs": [
+      "Methane-Oxygen Reusable Aerospike Engines",
+      "Deep Space Optical Laser Transceiver Array",
+      "Orbital Solar Microwave Power Harvesters",
+      "Autonomous Lunar Regolith Sintering Units"
+    ],
+    "capabilities": [
+      "Methane-Oxygen Reusable Aerospike Engines",
+      "Deep Space Optical Laser Transceiver Array",
+      "Orbital Solar Microwave Power Harvesters",
+      "Autonomous Lunar Regolith Sintering Units"
+    ],
+    "specifications": [
+      {
+        "key": "Architecture",
+        "value": "BEDHA Space Gen 1"
+      },
+      {
+        "key": "Integration",
+        "value": "BEDHA Neural Grid"
+      }
+    ],
+    "technologies": [
+      "Neural Compute",
+      "Quantum Photonic",
+      "Autonomous Logic"
+    ],
+    "milestones": [
+      {
+        "title": "Foundational Research",
+        "date": "Q1 2026",
+        "status": "Completed",
+        "description": "Core architectural validation completed."
+      },
+      {
+        "title": "Ecosystem Deployment",
+        "date": "Q2 2026",
+        "status": "Active",
+        "description": "Live integration across BEDHA infrastructure."
+      }
+    ],
+    "futureVision": "Pioneering the future of space technology across the global BEDHA ecosystem.",
+    "metrics": [
+      {
+        "label": "Efficiency Index",
+        "value": "99.4%",
+        "change": "+18%"
+      },
+      {
+        "label": "Grid Latency",
+        "value": "< 2.4ms",
+        "change": "-40%"
+      }
+    ],
+    "tags": [
+      "Space Technology",
+      "Innovation",
+      "BEDHA 2026"
+    ],
+    "coverImage": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1200&q=80",
+    "description": "Future Space Technology",
+    "detailedDescription": "Pioneering reusable orbital transport craft, orbital solar power collectors, lunar surface habitat robotics, and laser deep-space communication relays expanding human horizons beyond Earth.",
+    "leadCompany": "BEDHA Space Exploration",
+    "creationDate": "2026-01-18",
+    "features": [
+      "Methane-Oxygen Reusable Aerospike Engines",
+      "Deep Space Optical Laser Transceiver Array",
+      "Orbital Solar Microwave Power Harvesters",
+      "Autonomous Lunar Regolith Sintering Units"
+    ],
+    "specs": {
+      "Architecture": "BEDHA Space Gen 1",
+      "Integration": "BEDHA Neural Grid"
+    },
+    "websiteUrl": "https://bedha.internal/bedha-space",
+    "isFeatured": true
+  },
+  {
+    "id": "proj_energy",
+    "name": "BEDHA Energy",
+    "entity": "BEDHA Energy Solutions",
+    "category": "Clean Energy",
+    "status": "Active",
+    "date": "2026-01-22",
+    "logo": "/assets/brand/bedha_logo.jpg",
+    "heroImage": "https://images.unsplash.com/photo-1466611653911-95081537e5b7?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1466611653911-95081537e5b7?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "shortDescription": "Clean Energy Technology",
+    "fullDescription": "Revolutionizing planetary sustainability through next-generation perovskite solar cells, deep-well supercritical geothermal extractors, and modular grid-scale sodium-ion battery reservoirs.",
+    "executiveOverview": "Revolutionizing planetary sustainability through next-generation perovskite solar cells, deep-well supercritical geothermal extractors, and modular grid-scale sodium-ion battery reservoirs.",
+    "breakthroughs": [
+      "32% Efficiency Tandem Perovskite Layers",
+      "Closed-Loop Supercritical Geothermal Generators",
+      "High-Cycle Megawatt Sodium Energy Storage",
+      "Direct-to-Grid Dynamic Frequency Modulation"
+    ],
+    "capabilities": [
+      "32% Efficiency Tandem Perovskite Layers",
+      "Closed-Loop Supercritical Geothermal Generators",
+      "High-Cycle Megawatt Sodium Energy Storage",
+      "Direct-to-Grid Dynamic Frequency Modulation"
+    ],
+    "specifications": [
+      {
+        "key": "Architecture",
+        "value": "BEDHA Energy Gen 1"
+      },
+      {
+        "key": "Integration",
+        "value": "BEDHA Neural Grid"
+      }
+    ],
+    "technologies": [
+      "Neural Compute",
+      "Quantum Photonic",
+      "Autonomous Logic"
+    ],
+    "milestones": [
+      {
+        "title": "Foundational Research",
+        "date": "Q1 2026",
+        "status": "Completed",
+        "description": "Core architectural validation completed."
+      },
+      {
+        "title": "Ecosystem Deployment",
+        "date": "Q2 2026",
+        "status": "Active",
+        "description": "Live integration across BEDHA infrastructure."
+      }
+    ],
+    "futureVision": "Pioneering the future of clean energy across the global BEDHA ecosystem.",
+    "metrics": [
+      {
+        "label": "Efficiency Index",
+        "value": "99.4%",
+        "change": "+18%"
+      },
+      {
+        "label": "Grid Latency",
+        "value": "< 2.4ms",
+        "change": "-40%"
+      }
+    ],
+    "tags": [
+      "Clean Energy",
+      "Innovation",
+      "BEDHA 2026"
+    ],
+    "coverImage": "https://images.unsplash.com/photo-1466611653911-95081537e5b7?auto=format&fit=crop&w=1200&q=80",
+    "description": "Clean Energy Technology",
+    "detailedDescription": "Revolutionizing planetary sustainability through next-generation perovskite solar cells, deep-well supercritical geothermal extractors, and modular grid-scale sodium-ion battery reservoirs.",
+    "leadCompany": "BEDHA Energy Solutions",
+    "creationDate": "2026-01-22",
+    "features": [
+      "32% Efficiency Tandem Perovskite Layers",
+      "Closed-Loop Supercritical Geothermal Generators",
+      "High-Cycle Megawatt Sodium Energy Storage",
+      "Direct-to-Grid Dynamic Frequency Modulation"
+    ],
+    "specs": {
+      "Architecture": "BEDHA Energy Gen 1",
+      "Integration": "BEDHA Neural Grid"
+    },
+    "websiteUrl": "https://bedha.internal/bedha-energy",
+    "isFeatured": true
+  }
+]

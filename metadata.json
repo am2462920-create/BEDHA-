@@ -1,0 +1,6 @@
+{
+  "name": "BEDHA",
+  "description": "Futuristic technology ecosystem platform spanning semiconductors, mobility, robotics, AI, smart cities, aerospace, and clean energy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

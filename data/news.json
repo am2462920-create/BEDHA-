@@ -1,0 +1,55 @@
+[
+  {
+    "id": "news_01",
+    "title": "BEDHA Announces Helium Flowzen X1 Tape-Out & Sub-Nanometer Benchmarks",
+    "content": "Today, BEDHA Silicon Foundry confirmed the successful tape-out of Helium Flowzen X1, achieving an unprecedented 380 billion nodes on a single photonic chip. The processor exhibits 4x greater throughput for multimodal neural networks compared to industry benchmarks.",
+    "authorName": "Brindaban Mondal",
+    "authorEmail": "brindabanmondal987@gmail.com",
+    "authorRole": "admin",
+    "publishDate": "September 12, 2026",
+    "imageUrl": "/assets/brand/banner_chip.jpg",
+    "tags": [
+      "Semiconductor",
+      "Helium Flowzen",
+      "Silicon",
+      "Breakthrough"
+    ],
+    "likes": 1240,
+    "commentsCount": 88,
+    "isPinned": true
+  },
+  {
+    "id": "news_02",
+    "title": "HIMADRI Phase-1 Metropolitan Operating Grid Goes Live in Pilot Tech Zones",
+    "content": "The HIMADRI smart city telemetry network has initiated active autonomous traffic and municipal grid balancing across 450 square kilometers. Real-time energy savings exceed 31% within the first 72 hours of continuous monitoring.",
+    "authorName": "BEDHA Architecture Team",
+    "authorEmail": "press@bedha.io",
+    "authorRole": "authorized",
+    "publishDate": "September 10, 2026",
+    "imageUrl": "/assets/brand/banner_ecosystem.jpg",
+    "tags": [
+      "Smart City",
+      "HIMADRI",
+      "Sustainability"
+    ],
+    "likes": 890,
+    "commentsCount": 42
+  },
+  {
+    "id": "news_03",
+    "title": "BEDHA AI 3.0 Multimodal Assistant Rolled Out to All Ecosystem Devices",
+    "content": "The updated BEDHA AI assistant now features localized zero-latency inference on A1 smartphones and BEDHA Vision headsets. Users can experience fluid natural dialogue, code synthesis, and whole-home telemetry management.",
+    "authorName": "BEDHA AI Research",
+    "authorEmail": "ai@bedha.io",
+    "authorRole": "authorized",
+    "publishDate": "September 05, 2026",
+    "imageUrl": "/assets/brand/bedha_ai_robot.jpg",
+    "tags": [
+      "AI",
+      "BEDHA AI",
+      "Neural Networks"
+    ],
+    "likes": 2150,
+    "commentsCount": 154
+  }
+]
